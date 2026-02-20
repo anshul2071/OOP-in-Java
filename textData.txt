@@ -1,0 +1,3 @@
+Hello, world!
+This is a character stream example.
+Unicode test: 你好, مرحبا, Bonjour!
